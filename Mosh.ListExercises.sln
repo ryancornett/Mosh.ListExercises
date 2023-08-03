@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mosh.ListExercises", "Mosh.ListExercises.csproj", "{8208BA37-E203-45F5-B8AF-E110A9223CA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Instructions", "Instructions", "{8B19C057-5A95-478C-89E4-E549A7CC4337}"
+	ProjectSection(SolutionItems) = preProject
+		Exercise1.txt = Exercise1.txt
+		Exercise2.txt = Exercise2.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8208BA37-E203-45F5-B8AF-E110A9223CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8208BA37-E203-45F5-B8AF-E110A9223CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8208BA37-E203-45F5-B8AF-E110A9223CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8208BA37-E203-45F5-B8AF-E110A9223CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9A74AEF-F94B-4A39-9F50-AF6A09693A22}
+	EndGlobalSection
+EndGlobal
