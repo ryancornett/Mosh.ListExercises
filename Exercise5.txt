@@ -1,0 +1,6 @@
+Note: For any of these exercises, ignore input validation unless otherwise directed.
+Assume the user enters values in the format that the program expects.
+
+Write a program and ask the user to supply a list of comma separated numbers (e.g 5, 1, 9, 2, 10).
+If the list is empty or includes fewer than 5 numbers, display "Invalid List" and ask the user to re-try.
+Otherwise, display the 3 smallest numbers in the list.
